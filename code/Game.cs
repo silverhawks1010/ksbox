@@ -1,6 +1,6 @@
-public partial class KsGame : Sandbox.Game
+public partial class ksbox : Sandbox.Game
 {
-    public MyGame()
+    public ksbox()
     {
     }
 }
